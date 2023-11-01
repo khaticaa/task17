@@ -150,8 +150,6 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 900px;
-  height: 700px;
   gap: 29px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
   border-radius: 30px;
